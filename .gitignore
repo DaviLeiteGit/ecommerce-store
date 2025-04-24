@@ -1,6 +1,8 @@
-node_modules/
-dist/
-.env
-.angular/
+# Ignora caches e IDEs
+*.log
 .vscode/
-npm-debug.log*
+.angular/
+ecommerce-store-frontend/node_modules/
+ecommerce-store-frontend/dist/
+ecommerce-store-frontend/.angular/
+ecommerce-store-frontend/.env
