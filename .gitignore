@@ -2,7 +2,7 @@
 *.log
 .vscode/
 .angular/
-ecommerce-store-frontend/node_modules/
-ecommerce-store-frontend/dist/
-ecommerce-store-frontend/.angular/
-ecommerce-store-frontend/.env
+/ecommerce-store-frontend/node_modules/
+/ecommerce-store-frontend/dist/
+/ecommerce-store-frontend/.angular/
+/ecommerce-store-frontend/.env
